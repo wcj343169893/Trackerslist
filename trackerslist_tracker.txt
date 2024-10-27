@@ -27,6 +27,9 @@ http://bt.ktkj.com:8080/announce
 http://bt.rghost.net:80/announce
 http://bt.xcty.eu.org:2095/announce
 http://bt.zlofenix.org:81/announce
+http://bt1.archive.org:6969/announce
+http://bt1.letpo.com:80/announce
+http://bt2.archive.org:6969/announce
 http://bttracker.debian.org:6969/announce
 http://btx.anifilm.tv:80/announce
 http://bvarf.tracker.sh:2086/announce
@@ -75,9 +78,13 @@ http://nyaa.tracker.wf:7777/announce
 http://open-v6.demonoid.ch:6969/announce
 http://open.8a.is:6969/announce
 http://open.acgnxtracker.com:80/announce
+http://open.acgtracker.com:1096/announce
+http://open.miotracker.com:80/announce
+http://open.nyap2p.com:8080/announce
 http://open.stealth.si:80/announce
 http://open.touki.ru:80/announce
 http://opentracker.io:80/announce
+http://opentracker.xyz:80/announce
 http://opentrackr.org:1337/announce
 http://openwrt.lingyurouqing.xyz:6969/announce
 http://p4p.arenabg.com:1337/announce
@@ -92,7 +99,6 @@ http://rfc5746.mywaifu.best:6969/announce
 http://rotracker.ohys.net:80/announce
 http://rstracker.ohys.net:80/announce
 http://secure.pow7.com:80/announce
-http://share.hkg-fansub.info:80/announce
 http://shogiroom.com:6969/announce
 http://smurfsoft.com:6969/announce
 http://t.nyaatracker.com:80/announce
@@ -131,8 +137,6 @@ http://tracker.ali213.net:8000/announce
 http://tracker.ali213.net:8080/announce
 http://tracker.anirena.com:80/announce
 http://tracker.baka-sub.cf:80/announce
-http://tracker.bittor.pw:1337/announce
-http://tracker.bittorrent.nibblepoker.lu:49227/announce
 http://tracker.breizh.pm:6969/announce
 http://tracker.bt-chat.com:80/announce
 http://tracker.bt4g.com:2095/announce
@@ -274,6 +278,7 @@ https://mathkangaroo.jp:443/announce
 https://nyaa.tracker.wf:7777/announce
 https://o-unkusrx.cloud.okteto.net:443/announce
 https://open.kickasstracker.com:443/announce
+https://opentracker.xyz:443/announce
 https://p2p.azu.red:443/announce
 https://p4p.arenabg.com:1337/announce
 https://prestige.minimafia.nl:443/announce
@@ -294,7 +299,6 @@ https://t2.leech.ie:443/announce
 https://t3.leech.ie:443/announce
 https://threads.canofsocks.com:443/announce
 https://torrent.opiums.eu:443/announce
-https://torrent.tracker.durukanbal.com:443/announce
 https://torrent.ubuntu.com:443/announce
 https://torrents.linuxmint.com:443/announce
 https://torrust.canofsocks.com:443/announce
@@ -337,6 +341,7 @@ https://tracker.gcrreen.xyz:443/announce
 https://tracker.h3o2.me:443/announce
 https://tracker.imgoingto.icu:443/announce
 https://tracker.ipfsscan.io:443/announce
+https://tracker.iriseden.fr:443/announce
 https://tracker.itscraftsoftware.my.id:443/announce
 https://tracker.jdx3.org:443/announce
 https://tracker.jiesen.life:8443/announce
@@ -413,6 +418,8 @@ udp://bedro.cloud:6969/announce
 udp://ben.kerbertools.xyz:6969/announce
 udp://bigfoot1942.sektori.org:6969/announce
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+udp://bt1.archive.org:6969/announce
+udp://bt2.archive.org:6969/announce
 udp://bttracker.debian.org:6969/announce
 udp://bubu.mapfactor.com:6969/announce
 udp://buddyfly.top:6969/announce
@@ -486,6 +493,7 @@ udp://netmap.top:6969/announce
 udp://new-line.net:6969/announce
 udp://odd-hd.fr:6969/announce
 udp://oh.fuuuuuck.com:6969/announce
+udp://open.demonii.com:1337/announce
 udp://open.demonoid.ch:6969/announce
 udp://open.dstud.io:6969/announce
 udp://open.stealth.si:6969/announce
@@ -526,6 +534,8 @@ udp://smtp-relay.odysseylabel.com.au:6969/announce
 udp://smurfsoft.com:6969/announce
 udp://soundmovie.ru:6969/announce
 udp://srv5.digiboy.ir:6969/announce
+udp://ssb14.nohost.me:6969/announce
+udp://stargrave.org:6969/announce
 udp://static.54.161.216.95.clients.your-server.de:6969/announce
 udp://su-data.com:6969/announce
 udp://sx.xxtor.com:6969/announce
@@ -619,7 +629,6 @@ udp://tracker.yoshi210.com:6969/announce
 udp://tracker.zaluan.xyz:6969/announce
 udp://tracker.zemoj.com:6969/announce
 udp://tracker.zerobytes.xyz:1337/announce
-udp://tracker1.myporn.club:9337/announce
 udp://tracker3.t-1.org:6969/announce
 udp://tsundere.pw:6969/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
