@@ -88,6 +88,9 @@ http://nyaa.tracker.wf:7777/announce
 http://open-v6.demonoid.ch:6969/announce
 http://open.8a.is:6969/announce
 http://open.acgnxtracker.com:80/announce
+http://open.acgtracker.com:1096/announce
+http://open.miotracker.com:80/announce
+http://open.nyap2p.com:8080/announce
 http://open.stealth.si:80/announce
 http://open.touki.ru:80/announce
 http://open.trackerlist.xyz:80/announce
@@ -526,7 +529,6 @@ udp://ipv6.1337.cx:6969/announce
 udp://ipv6.govt.hu:6969/announce
 udp://ipv6.rer.lol:6969/announce
 udp://ipv6.tracker.harry.lu:6969/announce
-udp://isk.richardsw.club:6969/announce
 udp://jutone.com:6969/announce
 udp://keke.re:6969/announce
 udp://kiryuu-test.mywaifu.best:6969/announce
@@ -538,6 +540,7 @@ udp://leet-tracker.moe:1337/announce
 udp://linfan.moe:6969/announce
 udp://llideong.cn:6969/announce
 udp://ln.mtahost.co:6969/announce
+udp://lulz.vpndb.org:3000/announce
 udp://mail.artixlinux.org:6969/announce
 udp://mail.lakameraobscura.com:6969/announce
 udp://mail.segso.net:6969/announce
@@ -551,10 +554,8 @@ udp://movies.zsw.ca:6969/announce
 udp://mserver.link:6969/announce
 udp://netmap.top:6969/announce
 udp://new-line.net:6969/announce
-udp://ns-1.x-fins.com:6969/announce
 udp://odd-hd.fr:6969/announce
 udp://oh.fuuuuuck.com:6969/announce
-udp://open.demonii.com:1337/announce
 udp://open.demonoid.ch:6969/announce
 udp://open.dstud.io:6969/announce
 udp://open.free-tracker.ga:6969/announce
@@ -677,6 +678,7 @@ udp://tracker.picotorrent.one:6969/announce
 udp://tracker.pimpmyworld.to:6969/announce
 udp://tracker.qu.ax:6969/announce
 udp://tracker.sheesh.rip:6969/announce
+udp://tracker.skynetcloud.site:6969/announce
 udp://tracker.srv00.com:6969/announce
 udp://tracker.teambelgium.net:6969/announce
 udp://tracker.theoks.net:6969/announce
@@ -734,6 +736,7 @@ udp://yann5.hexanyn.fr:6969/announce
 udp://z.mercax.com:53/announce
 udp://z.paranoid.agency:6969/announce
 udp://zecircle.xyz:6969/announce
+ws://tracker.files.fm:7072/announce
 wss://qot.abiir.top:443/announce
 wss://spacetradersapi-chatbox.herokuapp.com:443/announce
 wss://tracker.btorrent.xyz:443/announce
