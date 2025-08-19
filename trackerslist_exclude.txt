@@ -60,7 +60,6 @@ http://open.acgnxtracker.com:80/announce
 http://open.miotracker.com:80/announce
 http://open.nyap2p.com:8080/announce
 http://open.tracker.ink:6969/announce
-http://openbittorrent.com:80/announce
 http://opentracker.acgnx.com:6869/announce
 http://opentracker.acgnx.se:80/announce
 http://opentracker.i2p.rocks:6969/announce
@@ -71,6 +70,8 @@ http://retracker.seven-sky.net:80/announce
 http://retracker01-msk-virt.corbina.net:80/announce
 http://s926723.ha016.t.mydomain.zone:80/announce
 http://saltwood.top:6969/announce
+http://secure.pow7.com:80/announce
+http://seeders-paradise.org:80/announce
 http://share.camoe.cn:8080/announce
 http://siambit.org:80/announce
 http://t.acg.rip:6699/announce
@@ -80,9 +81,9 @@ http://t.publictracker.xyz:6969/announce
 http://t1.aag.moe:17715/announce
 http://t1.chfs.ch:6969/announce
 http://t1.leech.ie:80/announce
-http://t1.pow7.com:80/announce
 http://t2.leech.ie:80/announce
 http://t3.leech.ie:80/announce
+http://thetracker.org:80/announce
 http://thitgaluoc.dynu.net:6969/announce
 http://tor.rev.pm:6969/announce
 http://torrent-team.net:80/announce
@@ -108,6 +109,7 @@ http://tracker.btsync.gq:233/announce
 http://tracker.coppersurfer.site:2710/announce
 http://tracker.cutie.dating:80/announce
 http://tracker.dm258.cn:7070/announce
+http://tracker.dmcomic.org:2710/announce
 http://tracker.dutchtracking.nl:80/announce
 http://tracker.electro-torrent.pl:80/announce
 http://tracker.ex.ua:80/announce
@@ -161,9 +163,11 @@ http://v6-tracker.0g.cx:6969/announce
 http://vps02.net.orel.ru:80/announce
 http://web.open-tracker.cf:6969/announce
 http://wegkxfcivgx.ydns.eu:80/announce
+http://www.genesis-sp.org:2710/announce
 http://www.wareztorrent.com:80/announce
 https://00.mercax.com:443/announce
 https://00.xxtor.com:443/announce
+https://0d.kebhana.mx:443/announce
 https://bittorrent.gongt.net:443/announce
 https://bt.080609.xyz:443/announce
 https://bt.endpot.com:443/announce
@@ -212,7 +216,9 @@ https://tracker.feb217.tk:8443/announce
 https://tracker.gbitt.info:443/announce
 https://tracker.guguan.dpdns.org:443/announce
 https://tracker.guguan.us.kg:443/announce
+https://tracker.h3o2.me:443/announce
 https://tracker.ipfsscan.io:443/announce
+https://tracker.iriseden.fr:443/announce
 https://tracker.jiesen.life:8443/announce
 https://tracker.kawaii.id:443/announce
 https://tracker.lelux.fi:443/announce
@@ -221,7 +227,6 @@ https://tracker.logirl.moe:443/announce
 https://tracker.loligirl.cn:443/announce
 https://tracker.mlsub.net:443/announce
 https://tracker.nanoha.org:443/announce
-https://tracker.netmap.top:8443/announce
 https://tracker.nitrix.me:443/announce
 https://tracker.nyaa.tk:443/announce
 https://tracker.parrotlinux.org:443/announce
@@ -243,6 +248,7 @@ udp://admin.52ywp.com:6969/announce
 udp://api.alarmasqueretaro.com:3074/announce
 udp://api.boletera.org:3074/announce
 udp://app.icon256.com:8000/announce
+udp://bananas.space:6969/announce
 udp://bandito.byterunner.io:6969/announce
 udp://ben.kerbertools.xyz:6969/announce
 udp://black-bird.ynh.fr:6969/announce
@@ -259,6 +265,7 @@ udp://carr.codes:6969/announce
 udp://cpe-104-34-3-152.socal.res.rr.com:6969/announce
 udp://download.nerocloud.me:6969/announce
 udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce
+udp://elementsbrowser.com:6969/announce
 udp://exodus.desync.com:6969/announce
 udp://extracker.dahrkael.net:6969/announce
 udp://fe.dealclub.de:6969/announce
