@@ -627,6 +627,7 @@ udp://btt.service.gongt.me:43079/announce
 udp://bttracker.debian.org:6969/announce
 udp://bubu.mapfactor.com:6969/announce
 udp://buddyfly.top:6969/announce
+udp://buny.uk:6969/announce
 udp://camera.lei001.com:6969/announce
 udp://canardscitrons.nohost.me:6969/announce
 udp://caramelo.ddns.net:8000/announce
@@ -772,6 +773,7 @@ udp://thinking.duckdns.org:6969/announce
 udp://thouvenin.cloud:6969/announce
 udp://tk4.leechshield.link:6969/announce
 udp://torrent.fedoraproject.org:6969/announce
+udp://torrent.hificode.in:6969/announce
 udp://torrent.i.ng:6969/announce
 udp://torrent.ubuntu.com:6969/announce
 udp://torrentclub.space:6969/announce
@@ -833,7 +835,6 @@ udp://tracker.leena.network:6969/announce
 udp://tracker.lelux.fi:6969/announce
 udp://tracker.mirrorbay.org:6969/announce
 udp://tracker.monitorit4.me:6969/announce
-udp://tracker.moxing.party:6969/announce
 udp://tracker.mywaifu.best:6969/announce
 udp://tracker.nartlof.com.br:6969/announce
 udp://tracker.netmap.top:6969/announce
