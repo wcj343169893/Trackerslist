@@ -512,6 +512,7 @@ https://tracker.feb217.tk:443/announce
 https://tracker.feb217.tk:8443/announce
 https://tracker.foreverpirates.co:443/announce
 https://tracker.gbitt.info:443/announce
+https://tracker.gcrenwp.top:443/announce
 https://tracker.ghostchu-services.top:443/announce
 https://tracker.guguan.dpdns.org:443/announce
 https://tracker.guguan.us.kg:443/announce
@@ -617,12 +618,12 @@ udp://bt.letpo.com:6969/announce
 udp://bt.oiyo.tk:6969/announce
 udp://bt.rer.lol:6969/announce
 udp://bt1.archive.org:6969/announce
+udp://bt1.xxxxbt.cc:6969/announce
 udp://bt2.archive.org:6969/announce
 udp://btt.service.gongt.me:43079/announce
 udp://bttracker.debian.org:6969/announce
 udp://bubu.mapfactor.com:6969/announce
 udp://buddyfly.top:6969/announce
-udp://buny.uk:6969/announce
 udp://burmese.app:6969/announce
 udp://camera.lei001.com:6969/announce
 udp://canardscitrons.nohost.me:6969/announce
@@ -659,9 +660,7 @@ udp://freedom.1776.ga:6969/announce
 udp://freedomalternative.com:6969/announce
 udp://ftp.pet:2710/announce
 udp://home.kray.pw:6969/announce
-udp://home.yxgz.club:6969/announce
 udp://htz3.noho.st:6969/announce
-udp://hzzwly.gq:6969/announce
 udp://ibksturm.synology.me:6969/announce
 udp://incine.ru:6969/announce
 udp://inferno.demonoid.is:3391/announce
@@ -827,6 +826,7 @@ udp://tracker.jamesthebard.net:6969/announce
 udp://tracker.kali.org:6969/announce
 udp://tracker.lelux.fi:6969/announce
 udp://tracker.monitorit4.me:6969/announce
+udp://tracker.moxing.party:6969/announce
 udp://tracker.mywaifu.best:6969/announce
 udp://tracker.nartlof.com.br:6969/announce
 udp://tracker.ololosh.space:6969/announce
@@ -860,7 +860,6 @@ udp://tracker.trackerfix.com:82/announce
 udp://tracker.tryhackx.org:6969/announce
 udp://tracker.tvunderground.org.ru:3218/announce
 udp://tracker.valete.tf:9999/announce
-udp://tracker.vanitycore.co:6969/announce
 udp://tracker.vds.nz:6969/announce
 udp://tracker.waaa.moe:6969/announce
 udp://tracker.x6c.co:6969/announce
@@ -875,7 +874,6 @@ udp://tracker.zaluan.xyz:6969/announce
 udp://tracker.zemoj.com:6969/announce
 udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker.zupix.online:1333/announce
-udp://tracker.zupix.online:6969/announce
 udp://tracker1.myporn.club:9337/announce
 udp://tracker1.t-1.org:6969/announce
 udp://tracker2.itzmx.com:6961/announce
